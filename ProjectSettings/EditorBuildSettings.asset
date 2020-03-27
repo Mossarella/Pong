@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 0940c116c3df93340b3f5794fb649420
+  - enabled: 1
+    path: Assets/Scenes/PlayWithBot.unity
+    guid: 578f45342b320b64aad5a3e15a787349
+  - enabled: 1
+    path: Assets/Scenes/Player1Wins.unity
+    guid: 137115737f7b6324ab536cfd7a323dc2
+  - enabled: 1
+    path: Assets/Scenes/Player2Wins.unity
+    guid: aca9b5ae773c5b840bf47ea58e006dd9
+  - enabled: 1
+    path: Assets/Scenes/LocalPlay.unity
+    guid: 1be8471dc85e5d640b18433cdbb98312
+  m_configObjects: {}
